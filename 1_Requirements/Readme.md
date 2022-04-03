@@ -10,11 +10,11 @@ HLR 03|Went into a team| Done|
 # Low level Requirements
 |LLR|DESCRIPTION|HLR|STATUS|
 ---|---|---|
-LR 01|Name|HLR 01|Done|
-LR 02|runs|HLR 02|Done|
-LR 03|odi runs|HLR 02|Done|
-LR 04| team| HLR O2| Done|
-LR 05| team list|HLR 03| Done|
+LR 01|Name|Done|
+LR 02|runs|Done|
+LR 03|odi runs|Done|
+LR 04| team|Done|
+LR 05| team list|Done|
 ### SWOT ANALYSIS
 * Strength:
  * Name of player is matched it will give, their carrer list like runs,centuries,test runs, wickets,strike rate, average
