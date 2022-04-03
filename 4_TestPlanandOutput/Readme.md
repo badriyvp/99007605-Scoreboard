@@ -2,3 +2,5 @@
 | TASK | STATUS
 ---|---|
 ENTER NAME| Done|
+ENTER ODI RUNS| Done
+ENTER TEAM| Done
