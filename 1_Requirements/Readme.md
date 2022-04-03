@@ -7,7 +7,6 @@
 HLR 01|Carrer deatils|Done|
 HLR 02| odi runs| Done|
 HLR 03|Went into a team| Done|
-
 ## Low level Requirements
 |LLR|DESCRIPTION|HLR|STATUS|
 ---|---|---|
