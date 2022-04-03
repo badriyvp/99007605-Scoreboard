@@ -9,7 +9,7 @@ HLR 02| odi runs| Done|
 HLR 03|Went into a team| Done|
 
 ## Low level Requirements
-|LLR | DESCRIPTION|HLR|STATUS|
+|LLR|DESCRIPTION|HLR|STATUS|
 ---|---|---|
 LR 01|Name|HLR 01|Done|
 LR 02|runs|HLR 02|Done|
